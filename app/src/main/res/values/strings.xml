@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">DingDong</string>
+
+    <string name="email">Email</string>
+    <string name="sifra">Sifra</string>
+    <string name="log_in">Log in</string>
+    <string name="log_out">Log Out</string>
+    <string name="broj">Broj</string>
+    <string name="korisnik">Korisnik</string>
+    <string name="vreme">Vreme</string>
+    <string name="imeiliprezime">ImeiliPrezime</string>
+    <string name="broj_porudzbine">Broj porudzbine</string>
+    <string name="ulica">Ulica</string>
+    <string name="text">text</string>
+    <string name="primio">Primio</string>
+    <string name="isporucio">Isporucio</string>
+    <string name="vrati_se">Vrati se</string>
+    <string name="predjena_kilometraza">Predjena kilometraza</string>
+    <string name="zelim_da_se_izlogujem">Zelim da se izlogujem</string>
+    <string name="ne_zelim_da_se_izlogujem">Ne zelim da se izlogujem</string>
+    <string name="pocenta_kilometraza">Pocenta Kilometraza</string>
+    <string name="osvezi">Osvezi</string>
+    <string name="pozovi">pozovi</string>
+</resources>

@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "291969162724",
+    "firebase_url": "https://dingdong-77f20-default-rtdb.firebaseio.com",
+    "project_id": "dingdong-77f20",
+    "storage_bucket": "dingdong-77f20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291969162724:android:88a81f84b0a50778377bf1",
+        "android_client_info": {
+          "package_name": "com.boss.dingdong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291969162724-isasb6tuieajder3bo6c36nuvg724drm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJCTpte5W6U6eXFvatpUzQo97XI-4x62s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291969162724-isasb6tuieajder3bo6c36nuvg724drm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291969162724:android:f001affb35f4f482377bf1",
+        "android_client_info": {
+          "package_name": "com.example.dingdong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291969162724-isasb6tuieajder3bo6c36nuvg724drm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJCTpte5W6U6eXFvatpUzQo97XI-4x62s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291969162724-isasb6tuieajder3bo6c36nuvg724drm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
